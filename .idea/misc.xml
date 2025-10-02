@@ -20,7 +20,7 @@
     <option name="librariesRoot" value="$USER_HOME$/.arend/libs" />
     <option name="showImplicitGoals" value="true" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_21">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="liberica-full-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
